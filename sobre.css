@@ -1,0 +1,39 @@
+#titulo {
+    color: aqua;
+    font-size: 4rem;
+    text-align: center;
+    background-color: black;
+    padding: 3rem 2rem;
+}
+header {
+    background-color: rgb(230, 0, 0);
+    color: #efefef;
+    padding: 3rem 2rem;
+}
+#navegador {
+    text-align: center;
+    background-color: #ff0000;
+    padding: 10px;
+}
+
+#navegador ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#navegador ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+#navegador ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+#navegador ul li a:hover {
+    color: #1100ad;
+}
+
